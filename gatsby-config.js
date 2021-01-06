@@ -23,6 +23,7 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-remark-images`,
+    'gatsby-plugin-theme-ui',
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
